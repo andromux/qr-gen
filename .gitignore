@@ -1,0 +1,5 @@
+binarios/
+*.AppImage
+linuxdeploy-x86_64.AppImage
+AppIMageGenerator.py
+icon.png
