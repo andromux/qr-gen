@@ -28,12 +28,12 @@ La aplicación está disponible en versión **AppImage** para Linux, lo que sign
 * Si deseas usar la versión en código:
 
   * Python 3.10+
-  * Dependencias: `flet`, `qrcode`, `pillow`
+  * Dependencias: `flet[all]==0.28.3`, `qrcode`, `pillow`
 
 Instalación de dependencias (si usas el código fuente):
 
 ```bash
-pip install flet qrcode pillow
+pip install flet[all]==0.28.3 qrcode pillow
 ```
 
 ---
